@@ -1,7 +1,9 @@
 # Data-Collection
 ## Scope
-Via both automated browsing with Splinter and HTML parsing with Beautiful Soup we were given 2 websites to scrap.  
+Via both automated browsing with Splinter and HTML parsing with Beautiful Soup we were given 2 websites to scrap. 
+
 On the "Mars news site" (https://static.bc-edx.com/data/web/mars_news/index.html), the task was to find all the article titles and preview information and save it in a dictionary on Python.  
+
 For the second task, we were given the website the "Mars Temperature Data Site" (https://static.bc-edx.com/data/web/mars_facts/temperature.html) and by using Beatiful Soup, we had to extract the table, run some analysis on the data to answer required questions, and store the table extracted on a csv file.   
 ## Results
 ### Mars news site
